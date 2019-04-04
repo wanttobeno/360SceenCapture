@@ -17,7 +17,7 @@
 
 ##### Release
 
-下载[Loader360SceenCapture.exe](./bin/Loader360SceenCapture.exe)
+下载[Loader360SceenCapture.exe](./Bin/Loader360SceenCapture.exe)
 
 勿非法使用，侵权删除
 
