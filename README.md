@@ -21,6 +21,10 @@
 
 勿非法使用，侵权删除
 
+##### 程序图标作者网站
+
+https://www.easyicon.net/1200392-screen_icon.html
+
 #####  Windows下截图软件的原理
 
 参考：[Screenshot](https://github.com/wanttobeno/Screenshot)
